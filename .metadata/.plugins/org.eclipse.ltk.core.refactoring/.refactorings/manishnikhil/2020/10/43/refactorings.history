@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;manishnikhil.Validdate.java&apos; to &apos;Validate.java&apos;&#x0D;&#x0A;- Original project: &apos;manishnikhil&apos;&#x0D;&#x0A;- Original element: &apos;manishnikhil.Validdate.java&apos;&#x0D;&#x0A;- Renamed element: &apos;manishnikhil.Validate.java&apos;" description="Rename compilation unit &apos;Validdate.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;manishnikhil{Validdate.java" name="Validate.java" references="false" stamp="1603303547042" version="1.0"/>
+</session>

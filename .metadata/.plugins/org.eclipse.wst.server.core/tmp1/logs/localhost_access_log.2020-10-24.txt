@@ -1,0 +1,15 @@
+127.0.0.1 - - [24/Oct/2020:14:25:15 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:14:25:17 +0530] "GET /manishnikhil/ HTTP/1.1" 404 768
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:14:25:17 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [24/Oct/2020:14:30:57 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:14:30:57 +0530] "GET /manishnikhil/register.html HTTP/1.1" 200 1747
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:14:30:57 +0530] "GET /manishnikhil/styles.css HTTP/1.1" 200 1475
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:14:31:22 +0530] "POST /manishnikhil/Register HTTP/1.1" 200 16
+127.0.0.1 - - [24/Oct/2020:17:39:52 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:17:39:53 +0530] "GET /manishnikhil/register.html HTTP/1.1" 200 1747
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:17:39:53 +0530] "GET /manishnikhil/styles.css HTTP/1.1" 200 1475
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:17:40:14 +0530] "POST /manishnikhil/Register HTTP/1.1" 200 16
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:17:40:30 +0530] "POST /manishnikhil/Register HTTP/1.1" 200 16
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:21:54:01 +0530] "GET /manishnikhil/styles.css HTTP/1.1" 200 1475
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:21:54:28 +0530] "POST /manishnikhil/Register HTTP/1.1" 500 1425
+0:0:0:0:0:0:0:1 - - [24/Oct/2020:21:55:17 +0530] "POST /manishnikhil/Register HTTP/1.1" 200 16
